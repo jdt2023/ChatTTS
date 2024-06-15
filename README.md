@@ -1,3 +1,18 @@
+
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlUcDNSTFZZMUVRbTltbGIyUW82T3BHa1dBZ3xBQ3Jtc0trMm85STY0bXBZUl9iUmtFVi03UDUzRWV2Q2Vnd2EtNW9LWWZBaGRuSUxRQTRyUk42RmlTVW9vRm9OQURxOGc3SlEza3pwUjZaNDhDZXJfTnNkd0ZrdVJKQ3Z4VUE0d2UzY1lwX0tIZDhyaW9KRkRGbw&q=https%3A%2F%2Fcolab.research.google.com%2F&v=zlh1CESVpv4
+
+
+➡️使用的两行命令：
+!pip install -U chattts-fork
+
+
+
+!chattts ' 你好，我是BKT，今天听了个笑话, 我将给你听下。'  --seed 6000
+
+
+
+
 https://chattts.com/
 
 
